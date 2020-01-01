@@ -1,3 +1,3 @@
-使用git
+git
 Hello World!
 Hello
